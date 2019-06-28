@@ -1,0 +1,7 @@
+C:\Users\user\Documents\_PuT\VScpp\PermutationGenerator\PermutationGenerator\obj\Debug\PermutationGenerator.csprojAssemblyReference.cache
+C:\Users\user\Documents\_PuT\VScpp\PermutationGenerator\PermutationGenerator\obj\Debug\PermutationGenerator.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\_PuT\VScpp\PermutationGenerator\PermutationGenerator\bin\Debug\PermutationGenerator.exe.config
+C:\Users\user\Documents\_PuT\VScpp\PermutationGenerator\PermutationGenerator\bin\Debug\PermutationGenerator.exe
+C:\Users\user\Documents\_PuT\VScpp\PermutationGenerator\PermutationGenerator\bin\Debug\PermutationGenerator.pdb
+C:\Users\user\Documents\_PuT\VScpp\PermutationGenerator\PermutationGenerator\obj\Debug\PermutationGenerator.exe
+C:\Users\user\Documents\_PuT\VScpp\PermutationGenerator\PermutationGenerator\obj\Debug\PermutationGenerator.pdb
